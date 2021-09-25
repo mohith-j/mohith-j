@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mohith-j
+- 👋 Hi, I’m Mohith J, you can call me Teenu
 - 👀 I’m interested in Data Science, Software Developemt and Parallel Programming
 - 🌱 I’m currently learning Data Visualisation and Deep Learning
 - 💞️ I’m looking to collaborate on Data Science Projects
