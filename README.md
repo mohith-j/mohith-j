@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mohith J, you can call me Teenu
-- 👀 I’m interested in Data Science, Software Development and Parallel Programming
+- 👀 I’m interested in Software Development, Data Science and Parallel Programming
 - 🌱 I’m currently learning Data Visualisation and Deep Learning
 - 💞️ I’m looking to collaborate on Full Stack and Data Science Projects
 - 📫 Reach out to me through jothiteenu@gmail.com
